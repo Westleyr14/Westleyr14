@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ## Hi there 👋 
  
-Perkenalkan nama saya **Westley Randanan**.<br>
+<!-- Perkenalkan nama saya **Westley Randanan**.<br>
+-->
  
 <!--
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
